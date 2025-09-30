@@ -1,0 +1,67 @@
+{
+  "name": "AleartECO - Climate Alert System",
+  "short_name": "AleartECO",
+  "description": "Personalized climate alerts and emergency preparedness platform to protect you and your community from environmental threats.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#059669",
+  "background_color": "#f9fafb",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["weather", "utilities", "news", "safety"],
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Emergency SOS",
+      "short_name": "SOS",
+      "description": "Quick access to emergency tools",
+      "url": "/emergency",
+      "icons": [
+        {
+          "src": "/emergency-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Active Alerts",
+      "short_name": "Alerts",
+      "description": "View current climate alerts",
+      "url": "/alerts",
+      "icons": [
+        {
+          "src": "/alert-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Community",
+      "short_name": "Community",
+      "description": "Connect with local community",
+      "url": "/community",
+      "icons": [
+        {
+          "src": "/community-icon.png",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
+}
