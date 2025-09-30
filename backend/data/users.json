@@ -1,0 +1,43 @@
+[
+  {
+    "id": "user_1759097869522_jogibkshi",
+    "email": "prakulphogat2922@gmail.com",
+    "name": "PRAKUL PHOGAT",
+    "createdAt": "2025-09-28T22:17:49.522Z",
+    "updatedAt": "2025-09-28T22:17:49.522Z",
+    "isVerified": true,
+    "loginProvider": "manual",
+    "profile": {}
+  },
+  {
+    "id": "user_1759098750751_987t2in9w",
+    "email": "singhr18941@gmail.com",
+    "name": "PRAKUL PHOGAT",
+    "createdAt": "2025-09-28T22:32:30.751Z",
+    "updatedAt": "2025-09-28T22:32:30.751Z",
+    "isVerified": true,
+    "loginProvider": "manual",
+    "profile": {}
+  },
+  {
+    "id": "user_1759098952787_88f2wi20j",
+    "email": "john.doe@example.com",
+    "name": "John Doe",
+    "createdAt": "2025-09-28T22:35:52.787Z",
+    "updatedAt": "2025-09-28T22:35:52.787Z",
+    "isVerified": true,
+    "loginProvider": "manual",
+    "profile": {}
+  },
+  {
+    "id": "user_1759099051088_b3ynsvma6",
+    "email": "jane.smith@example.com",
+    "name": "Jane Smith",
+    "password": "$2b$12$o7wuWqh2Nqn3168ePt6rhOCo10gncue935SnOhM3VeFE7ePNZjEBG",
+    "createdAt": "2025-09-28T22:37:31.088Z",
+    "updatedAt": "2025-09-28T22:37:31.088Z",
+    "isVerified": true,
+    "loginProvider": "manual",
+    "profile": {}
+  }
+]
